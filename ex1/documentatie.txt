@@ -1,0 +1,4 @@
+Cum se ruleaza:
+
+    Rulam ex1.py prin:
+        python ex1.py
