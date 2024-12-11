@@ -8,6 +8,7 @@ Documentatie exercitiul 1:
     
         
 Documentatie exercitiul 2:
+  
   Cum se ruleaza:
     
     1. Activare mediu virtual
