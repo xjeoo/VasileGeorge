@@ -21,7 +21,7 @@ Documentatie exercitiul 2:
 
 3. Rulare ex2.py
 
-    python ex2.py
+        python ex2.py
 
 Referinte:
 
