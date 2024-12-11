@@ -24,6 +24,10 @@ Documentatie exercitiul 2:
 
         python ex2.py
 
+4. Verificare rezultate:
+
+        Accesam localhost:5000 in browser
+
 Referinte:
 
   https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=621s
