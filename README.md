@@ -27,5 +27,6 @@ Documentatie exercitiul 2:
 Referinte:
 
   https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=621s
+  
   https://www.w3schools.com/python/matplotlib_pyplot.asp
 
